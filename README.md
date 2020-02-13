@@ -1,8 +1,8 @@
 Project name is "Wooh"
 My name is Raphael Kariuki
-The project has a brief description of who i am. 
-Open projects file to find the url
-The live site is "file:///home/cookies/Documents/moringa-school-projects/hotels/css/Portfolio/portfolio.html"
+The project has a brief description of who I am. 
+
+The live site is "file:///home/cookies/Documents/moringa-school-projects/Portfolio/index.html#ABOUT%20ME"
 
 
 Copyright (c) [2020] [Raphael Kariuki]
